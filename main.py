@@ -4,3 +4,6 @@ my_list = [1,2,3,4]
 
 for i in my_list:
     print(i)
+
+def myfunc():
+    print("dasdsadsadasd")
