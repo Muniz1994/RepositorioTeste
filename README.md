@@ -7,17 +7,3 @@ To install this code you need...
 # How to reference this work
 
 
-[![DOI](https://joss.theoj.org/papers/10.21105/joss.02866/status.svg)](https://doi.org/10.21105/joss.02866)
-
-```
-@article{3dfier,
-  author = {Ledoux, Hugo and Biljecki, Filip and Dukai, Balázs and Kumar, Kavisha and Peters, Ravi and Stoter, Jantien and Commandeur, Tom},
-  doi = {10.21105/joss.02866},
-  journal = {Journal of Open Source Software},
-  number = {57},
-  pages = {2866},
-  title = {3dfier: automatic reconstruction of 3D city models},
-  volume = {6},
-  year = {2021}
-}
-```
